@@ -11,8 +11,6 @@ build/
 out/
 
 # Environment variables
-.env
-.env.local
 .env.*.local
 !.env.example
 !.env.local.example
@@ -48,3 +46,4 @@ Thumbs.db
 
 # Misc
 *.local
+config.bat
